@@ -1,0 +1,31 @@
+body { font-family: sans-serif;
+       background-color: white;}
+
+
+
+.task {
+    margin: 20px;
+    border: black 3px dotted;
+    background-color: silver;
+  }
+
+  .output p {
+    width: 50%;
+    margin: auto;
+  #  padding-left: 10px;
+  #  padding-bottom: 0px;
+    color: blue;
+  }
+
+  .output .highlight {
+    background-color: yellow;
+  }
+
+  .output .bold {
+    font-weight: bold;
+  }
+
+  table {width:200px; margin: 50px auto;}
+  table, th, td { color:blue; border: 1px black solid; border-collapse: collapse;}
+
+}

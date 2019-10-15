@@ -1,0 +1,38 @@
+body{
+  background-image: url("images/background.gif");
+  font-family: 'Montserrat', sans-serif;
+}
+.maincontent{
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 5px solid white;
+  background-color: white;
+}
+.footer{
+  text-align: right;
+}
+.firstheader{
+  font-weight: bold;
+  text-align: right;
+  background-color: rgb(168,213,255);
+  border: 5px solid white;
+  padding:10px;
+}
+.fooditems{
+  border:5px solid rgb(168,213,255);
+  padding:5px;
+  background-color: rgb(196,226,255);
+  margin-top: 10px;
+  overflow: hidden;
+}
+.date{
+  font-weight: bold;
+  border-bottom: 2px dashed black;
+}
+.image{
+  float:right;
+}
+.bottomfooter{
+  border: none;
+  text-align: center;
+}

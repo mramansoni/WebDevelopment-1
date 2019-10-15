@@ -1,0 +1,30 @@
+body{
+  border: 5px solid green;
+}
+#footer{
+  border: 5px solid orange;
+  padding: 2px;
+  padding-left: 0px;
+}
+.firstheader{
+  border: 5px solid red;
+  padding:2px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.fooditems{
+  border:5px solid blue;
+  padding:2px;
+  padding-left: 0px;
+}
+.date{
+  border:5px solid purple;
+  padding: 2px;
+}
+.description{
+  border:2px solid black;
+}
+.footerend{
+  border: 5px solid yellow;
+  padding: 2px;
+}
